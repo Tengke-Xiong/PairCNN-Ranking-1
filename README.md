@@ -11,3 +11,8 @@ As **train.txt** and **test.txt** in **./data** dir, each line is an sample, whi
 ```bash
 python train.py
 ```
+
+## Change Point
+
+if you would like to check what's the change in the new code, please click this link :https://www.linkedin.com/pulse/record-my-pair-cnn-lu-bu/
+
